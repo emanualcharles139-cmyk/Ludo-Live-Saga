@@ -1,0 +1,6 @@
+{
+  "name": "LUDO BLITZ – The Ultimate Mini Ludo Challenge",
+  "description": "A modern, fast-paced browser-based Ludo game with 2-4 players, smart AI bots, quick match mode, daily challenges, sound effects, and smooth animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
